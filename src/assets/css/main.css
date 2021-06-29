@@ -1,0 +1,20 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h5 .router-link-exact-active {
+    font-weight: bold;
+}
+
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url('../images/bg.jpg');
+    opacity: 0.7;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.vue-typer .custom.char.typed {
+    color: white;
+}
