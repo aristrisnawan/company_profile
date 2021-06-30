@@ -18,3 +18,8 @@ h5 .router-link-exact-active {
 .vue-typer .custom.char.typed {
     color: white;
 }
+
+.team {
+    height: 35%;
+    width: 40%;
+}
